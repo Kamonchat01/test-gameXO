@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TestGame</string>
+    <array name="division">
+        <item>3x3</item>
+        <item>4x4</item>
+    </array>
+
+    <string name="homeTitle">Tic Tac Toc</string>
+    <string name="historyTile">History Play</string>
+    <string name="playButton">Play</string>
+
+    <string name="PlayerSetupTitle">Enter Your Name</string>
+    <string name="Label1">Player1</string>
+    <string name="Label2">Player2</string>
+    <string name="submitButton">Submit Names</string>
+    <string name="NameHint">Enter Your Name</string>
+
+    <string name="PlayAgainButton">Play Again</string>
+    <string name="historyButton">History Play</string>
+    <string name="homeButton">Home</string>
+</resources>
